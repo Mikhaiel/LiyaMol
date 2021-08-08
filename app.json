@@ -59,12 +59,12 @@
         "FULL_EVA": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
             "required": true,
-            "value": "ture"
+            "value": "true"
         },
         "ALL_LINK_BAN": {
             "description": "Link Blocking System.- this one blocks all link",
             "required": true,
-            "value": "ture"
+            "value": "true"
         },
         "NO_LOG": {
             "description": "Hata logu görmek istemiyorsanız true yapın. Set true if you don't want to see error log.",
